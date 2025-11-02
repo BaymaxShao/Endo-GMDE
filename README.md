@@ -1,5 +1,5 @@
 
-# EndoGeDE: \<Ge\>neralizable Self-supervised Monocular \<D\>epth \<E\>stimation with Mixture of Low-Rank Experts for Diverse \<Endo\>scopic Scenes
+# EndoGeDE: \<G\>neralizable \<M\>onocular \<D\>epth \<E\>stimation with Mixture of Low-Rank Experts for Diverse \<Endo\>scopic Scenes
 
 
 ![](assets/teaser.png)
