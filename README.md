@@ -1,5 +1,5 @@
 
-# EndoGeDE: \<G\>neralizable \<M\>onocular \<D\>epth \<E\>stimation with Mixture of Low-Rank Experts for Diverse \<Endo\>scopic Scenes
+# EndoGMDE: \<G\>neralizable \<M\>onocular \<D\>epth \<E\>stimation with Mixture of Low-Rank Experts for Diverse \<Endo\>scopic Scenes
 
 
 ![](assets/teaser.png)
